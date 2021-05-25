@@ -1,0 +1,15 @@
+News.java
+ News
+ NewsType
+BizObserver.java
+ BizObserver
+DelhiObserver.java
+ DelhiObserver
+CentralAjTak.java
+ CentralAjTak
+Observer.java
+ Observer
+AssamObserver.java
+ AssamObserver
+Main.java
+ Main
